@@ -6,7 +6,6 @@ A simple activity status rotator for your Discord profile, written in Python. Th
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,7 +23,3 @@ Make sure you have the following installed:
 
 - Python 3.7 or higher
 - The `discord.py` library (install it using pip)
-
-## Installation
-
-1. Clone the repository:
