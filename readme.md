@@ -6,9 +6,6 @@ A simple activity status rotator for your Discord profile, written in Python. Th
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
